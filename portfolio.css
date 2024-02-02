@@ -1,4 +1,4 @@
-/**,
+*,
 ::before,
 ::after {
     box-sizing: inherit;
@@ -7,7 +7,7 @@
 * {
     margin: 0px;
     padding: 0px;
-}*/
+}
 
 :root {
     --main-white: #f0f0f0;
