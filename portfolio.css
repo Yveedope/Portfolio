@@ -165,4 +165,11 @@ footer {
     border-top: 4px solid black;
     width: 100%;
 }
-
+@media (max-width: 61.25em)
+html {
+    font-size: 58%;
+}
+@media (max-width: 75em)
+html {
+    font-size: 60%;
+}
