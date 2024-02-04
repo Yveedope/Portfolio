@@ -167,6 +167,10 @@ footer {
 }
 @media only screen and (max-width: 600px) {
     /* Styles for screens up to 600px wide (typical mobile devices) */
+    .nav-list a {
+    font-size: 1rem;
+    padding: 0.5rem;
+}
   }
   
   @media only screen and (min-width: 601px) and (max-width: 1024px) {
